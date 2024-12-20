@@ -1,0 +1,8 @@
+discord.com
+googleads.g.doubleclick.net
+static.doubleclick.net
+www.googleadservices.com
+d26rikxpri8i3p.cloudfront.net
+gateway.discord.gg
+cloudflare-ech.com
+images-ext-1.discordapp.net
